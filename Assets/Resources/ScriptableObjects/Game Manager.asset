@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dbe1709ad4328643aa75b1b3f9cfe55, type: 3}
+  m_Name: Game Manager
+  m_EditorClassIdentifier: 
+  diamond: 0
+  healthObj: {fileID: 1556055312716074, guid: 528247025a606ab44bc50bf58c6bb61d, type: 2}
+  diamondObj: {fileID: 1506836541047206, guid: 19f9255aaa8efa443a5ece855f684245, type: 2}
+  amount: 3

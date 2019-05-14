@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: efb5c9530099f9742a636286d90a183a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barrel_1
+    100004: Barrel_2
+    100006: Base
+    100008: Candle_1
+    100010: Candle_2
+    100012: Chained_Lamp_2
+    100014: Chained_Lamp_2 1
+    100016: Chains_Long
+    100018: Chains_Medium
+    100020: Chains_Short
+    100022: Crate
+    100024: LampStick
+    100026: Metal_Lamp_1
+    100028: Metal_Lamp_2
+    100030: Metal_Lamp_3
+    100032: Metal_Lamp_4
+    400000: //RootNode
+    400002: Barrel_1
+    400004: Barrel_2
+    400006: Base
+    400008: Candle_1
+    400010: Candle_2
+    400012: Chained_Lamp_2
+    400014: Chained_Lamp_2 1
+    400016: Chains_Long
+    400018: Chains_Medium
+    400020: Chains_Short
+    400022: Crate
+    400024: LampStick
+    400026: Metal_Lamp_1
+    400028: Metal_Lamp_2
+    400030: Metal_Lamp_3
+    400032: Metal_Lamp_4
+    2100000: lambert2
+    2100002: blinn1
+    2100004: blinn2
+    2100006: blinn3
+    2100008: lambert4
+    2100010: blinn4
+    2100012: lambert5
+    2100014: lambert6
+    2100016: blinn5
+    2300000: Barrel_1
+    2300002: Barrel_2
+    2300004: Base
+    2300006: Candle_1
+    2300008: Candle_2
+    2300010: Chained_Lamp_2
+    2300012: Chained_Lamp_2 1
+    2300014: Chains_Long
+    2300016: Chains_Medium
+    2300018: Chains_Short
+    2300020: Crate
+    2300022: LampStick
+    2300024: Metal_Lamp_2
+    3300000: Barrel_1
+    3300002: Barrel_2
+    3300004: Base
+    3300006: Candle_1
+    3300008: Candle_2
+    3300010: Chained_Lamp_2
+    3300012: Chained_Lamp_2 1
+    3300014: Chains_Long
+    3300016: Chains_Medium
+    3300018: Chains_Short
+    3300020: Crate
+    3300022: LampStick
+    3300024: Metal_Lamp_2
+    4300000: Barrel_1
+    4300002: Crate
+    4300004: Barrel_2
+    4300006: Chains_Short
+    4300008: Chains_Medium
+    4300010: Chains_Long
+    4300012: Base
+    4300014: LampStick
+    4300016: Metal_Lamp_2
+    4300018: Candle_1
+    4300020: Chained_Lamp_2
+    4300022: Candle_2
+    4300024: Chained_Lamp_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 75
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: a25dc9983447bfc4cb3cb2c6d3fe2209
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Boss_Arena
+    100002: Boss_Col
+    100004: Boss_Void
+    100006: //RootNode
+    100008: Bricks4
+    100010: Bricks5
+    100012: polySurface1037
+    100014: polySurface1038
+    100016: polySurface1039
+    100018: polySurface1040
+    100020: Wall
+    400000: Boss_Arena
+    400002: Boss_Col
+    400004: Boss_Void
+    400006: //RootNode
+    400008: Bricks4
+    400010: Bricks5
+    400012: polySurface1037
+    400014: polySurface1038
+    400016: polySurface1039
+    400018: polySurface1040
+    400020: Wall
+    2100000: lambert1
+    2100002: Ground1
+    2100004: Ground_Detail1
+    2100006: Void
+    2100008: Bricks
+    2300000: Boss_Arena
+    2300002: Boss_Col
+    2300004: Boss_Void
+    2300006: Bricks4
+    2300008: Bricks5
+    2300010: polySurface1037
+    2300012: polySurface1038
+    2300014: polySurface1039
+    2300016: polySurface1040
+    3300000: Boss_Arena
+    3300002: Boss_Col
+    3300004: Boss_Void
+    3300006: Bricks4
+    3300008: Bricks5
+    3300010: polySurface1037
+    3300012: polySurface1038
+    3300014: polySurface1039
+    3300016: polySurface1040
+    4300000: polySurface1037
+    4300002: polySurface1038
+    4300004: polySurface1039
+    4300006: polySurface1040
+    4300008: Boss_Arena
+    4300010: Boss_Void
+    4300012: Boss_Col
+    4300014: Bricks4
+    4300016: Bricks5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
